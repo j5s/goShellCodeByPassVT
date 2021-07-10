@@ -19,4 +19,4 @@ b64body = ""
 [Go编译-race参数实现VT全免杀](https://mp.weixin.qq.com/s?src=11&timestamp=1625897670&ver=3181&signature=KPi53pi9YLfS-419yr4Is5uwCxejkeK2Ki0rbrtFZ2occDxV0aycmvxKBjhgQE8pm3m*I7lBYo9jwxYdHfBaQ0fr3-SJAWHaBkF5ait6BvFwzzZSfnPL*xJb0CQhewpm&new=1)
 ### 免杀情况
 截至2021/7/10 幸免于世
-![image-20210710145353977](https://typora-mine.oss-cn-beijing.aliyuncs.com/typora/image-20210710145353977.png)
+![image-20210710145910623](https://typora-mine.oss-cn-beijing.aliyuncs.com/typora/image-20210710145910623.png)
