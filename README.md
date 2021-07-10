@@ -1,4 +1,10 @@
 # goShellCodeByPassVT
+
+## 一丶公众号文章
+[Go编译-race参数实现VT全免杀](https://mp.weixin.qq.com/s/GrS6Kf7ZTDHT6cz_W1flfw)
+
+## 二丶命令
+
 通过线程注入及-race参数免杀全部VT
 
 ~~~go
@@ -15,8 +21,7 @@ shellcode生成后使用base64编码一次放入**b64body**即可
 b64body = ""
 ~~~
 
-### 公众号文章
-[Go编译-race参数实现VT全免杀](https://mp.weixin.qq.com/s?src=11&timestamp=1625897670&ver=3181&signature=KPi53pi9YLfS-419yr4Is5uwCxejkeK2Ki0rbrtFZ2occDxV0aycmvxKBjhgQE8pm3m*I7lBYo9jwxYdHfBaQ0fr3-SJAWHaBkF5ait6BvFwzzZSfnPL*xJb0CQhewpm&new=1)
-### 免杀情况
+
+## 三丶免杀情况
 截至2021/7/10 幸免于世
 ![image-20210710145910623](https://typora-mine.oss-cn-beijing.aliyuncs.com/typora/image-20210710145910623.png)
